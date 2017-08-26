@@ -39,13 +39,15 @@ Resources/Ycode.gorm \
 # Header files
 #
 Ycode_HEADER_FILES = \
-AppController.h
+AppController.h \
+YCodeDocumentController.h
 
 #
 # Objective-C Class files
 #
 Ycode_OBJC_FILES = \
-AppController.m
+AppController.m \
+YCodeDocumentController.m
 
 #
 # Other sources

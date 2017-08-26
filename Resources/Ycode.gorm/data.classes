@@ -15,4 +15,11 @@
 	);
 	Super = NSObject;
     };
+    YCodeDocumentController = {
+	Actions = (
+	);
+	Outlets = (
+	);
+	Super = NSObject;
+    };
 }
