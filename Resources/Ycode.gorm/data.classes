@@ -15,6 +15,13 @@
 	);
 	Super = NSObject;
     };
+    YCTreeView = {
+	Actions = (
+	);
+	Outlets = (
+	);
+	Super = NSView;
+    };
     YCodeDocumentController = {
 	Actions = (
 	);
