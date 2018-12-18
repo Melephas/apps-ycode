@@ -13,7 +13,9 @@
     "BUNDLE_IDENTIFIER" = "";
     "CLASS_FILES" = (
 	"AppController.m",
-	"YCodeDocumentController.m"
+	"YCodeDocumentController.m",
+	"YCTreeView.m",
+	"YCEditorView.m"
     );
     COMPILEROPTIONS = "";
     CPPOPTIONS = "";
@@ -24,7 +26,8 @@
     );
     "HEADER_FILES" = (
 	"AppController.h",
-	"YCodeDocumentController.h"
+	"YCodeDocumentController.h",
+	"YCTreeView.h"
     );
     IMAGES = (
     );

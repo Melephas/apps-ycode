@@ -40,14 +40,18 @@ Resources/Ycode.gorm \
 #
 Ycode_HEADER_FILES = \
 AppController.h \
-YCodeDocumentController.h
+YCodeDocumentController.h \
+YCTreeView.h \
+YCEditorView.h
 
 #
 # Objective-C Class files
 #
 Ycode_OBJC_FILES = \
 AppController.m \
-YCodeDocumentController.m
+YCodeDocumentController.m \
+YCTreeView.m \
+YCEditorView.m
 
 #
 # Other sources
