@@ -15,7 +15,8 @@
 	"AppController.m",
 	"YCodeDocumentController.m",
 	"YCTreeView.m",
-	"YCEditorView.m"
+	"YCEditorView.m",
+	"YCInspectorView.m"
     );
     COMPILEROPTIONS = "";
     CPPOPTIONS = "";
@@ -28,7 +29,8 @@
 	"AppController.h",
 	"YCodeDocumentController.h",
 	"YCTreeView.h",
-	"YCEditorView.h"
+	"YCEditorView.h",
+	"YCInspectorView.h"
     );
     IMAGES = (
     );

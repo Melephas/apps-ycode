@@ -42,7 +42,8 @@ Ycode_HEADER_FILES = \
 AppController.h \
 YCodeDocumentController.h \
 YCTreeView.h \
-YCEditorView.h
+YCEditorView.h \
+YCInspectorView.h
 
 #
 # Objective-C Class files
@@ -51,7 +52,8 @@ Ycode_OBJC_FILES = \
 AppController.m \
 YCodeDocumentController.m \
 YCTreeView.m \
-YCEditorView.m
+YCEditorView.m \
+YCInspectorView.m
 
 #
 # Other sources

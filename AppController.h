@@ -31,7 +31,7 @@
 	    openFile: (NSString *)fileName;
 
 - (void) showPrefPanel: (id)sender;
-- (IBAction) openProject: (id)sender;ssss
+- (IBAction) openProject: (id)sender;
 
 @end
 
