@@ -27,7 +27,8 @@
     "HEADER_FILES" = (
 	"AppController.h",
 	"YCodeDocumentController.h",
-	"YCTreeView.h"
+	"YCTreeView.h",
+	"YCEditorView.h"
     );
     IMAGES = (
     );

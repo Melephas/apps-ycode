@@ -28,7 +28,7 @@
 #import <Foundation/Foundation.h>
 #import <AppKit/AppKit.h>
 
-@interface YCEditorView : NSObject
+@interface YCEditorView : NSView
 {
 
 }
